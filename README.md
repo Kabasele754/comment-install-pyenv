@@ -23,3 +23,6 @@ If you don’t want to install pyenv via Homebrew, you can install it directly f
 ```echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
 echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(pyenv init --path)"' >> ~/.zshrc```
+
+
+https://k0nze.dev/posts/install-pyenv-venv-vscode/
