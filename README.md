@@ -38,7 +38,9 @@ git
 
 To install pyenv you can clone it directly from the GitHub repository:
 
-```git clone https://github.com/pyenv/pyenv.git ~/.pyenv```
+```
+git clone https://github.com/pyenv/pyenv.git ~/.pyenv
+```
 
 After cloning it you need to enter the following commands to add pyenv to your $PATH and start it when a new terminal is opened (if you use a different shell than bash you have to change ~/.bashrc accordingly):
 ```
